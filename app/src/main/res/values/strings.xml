@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News from the Guardian</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_newsfeed">There are no News</string>
+
+    <string name="settings_menu">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_page_label">Page</string>
+    <string name="settings_page_key" translatable="false">Article max</string>
+    <string name="settings_page_default" translatable="false">5</string>
+
+    <string name="settings_interest_label">Interests</string>
+    <string name="settings_interest_key" translatable="false">Your favorite topic</string>
+    <string name="settings_interest_default" translatable="false">Finance</string>
+
+</resources>
